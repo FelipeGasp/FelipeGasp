@@ -1,6 +1,6 @@
 
-<div style="background-color:#030C51">
-  Olá! Seja bem vindo!
+<div >
+  Olá! Seja bem vindo! <br>
      🇧🇷🇧🇷🇧🇷
 
 Meu **nome** completo é: Felipe Adelungue Gasparotto 😉 <br>
