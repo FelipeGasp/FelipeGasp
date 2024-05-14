@@ -7,7 +7,7 @@ Estudando no primeiro ano de CCO na SPTECH 📚 <br>
 Linguagens que eu tenho conhecimento:
 - 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 #
 - 𝙲𝚂𝚂 #
-- 𝚂𝚀𝙻 #
+- 𝚂𝚀𝙻 #<br>
 Tenho conhecimento também em:<br>
 - HTML(desenvolvimento WEB)
 - Sistemas Operacionais
