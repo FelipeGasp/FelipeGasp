@@ -8,6 +8,9 @@ Linguagens que eu tenho conhecimento:
 - 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 #
 - 𝙲𝚂𝚂 #
 - 𝚂𝚀𝙻 #
+Tenho conhecimento também em:<br>
+- HTML(desenvolvimento WEB)
+- Sistemas Operacionais
 
 Atualmente os projetos que estou trabalhando são: <br>
 https://github.com/Grape-Sci/Site_Institucional <br>
