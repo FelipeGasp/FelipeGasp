@@ -1,13 +1,13 @@
 
 <div style="background-color:#030C51">
   Olá! Seja bem vindo!
-
+     🇧🇷🇧🇷🇧🇷
 
 Meu **nome** completo é: Felipe Adelungue Gasparotto 😉 <br>
 Estudando no **primeiro ano de CCO** na SPTECH 📚 <br>
 
 **Linguagens** que eu tenho conhecimento:
-- 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 #
+- 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 # 
 - 𝙲𝚂𝚂 #
 - 𝚂𝚀𝙻 #<br><br>
 Tenho **conhecimento** também em:<br>
