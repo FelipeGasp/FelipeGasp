@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá! Seja bem vindo!
 
-<!--
-**FelipeGasp/FelipeGasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome completo é: Felipe Adelungue Gasparotto 😉
+Estudando no primeiro ano de CCO na SPTECH 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens que eu tenho conhecimento:
+- 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 #
+- 𝙲𝚂𝚂 #
+- 𝚂𝚀𝙻 #
+
+Atualmente os projetos que estou trabalhando são:
+https://github.com/Grape-Sci/Site_Institucional
+https://github.com/FelipeGasp/Projeto-Individual---CS2House
+
+Meu email 📨:
+felipe.gasparotto@sptech.school
+
