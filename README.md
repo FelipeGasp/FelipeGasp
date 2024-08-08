@@ -15,8 +15,7 @@ Tenho **conhecimento** também em:<br>
 - 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝙾𝚙𝚎𝚛𝚊𝚌𝚒𝚘𝚗𝚊𝚒𝚜 #
 
 Atualmente os projetos que estou trabalhando são: <br>
-https://github.com/Grape-Sci/Site_Institucional <br>
-https://github.com/FelipeGasp/Projeto-Individual---CS2House
+
 
 Meu email 📨:<br>
 felipe.gasparotto@sptech.school
