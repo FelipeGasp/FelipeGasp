@@ -10,7 +10,7 @@ Estudando no **primeiro ano de CCO** na SPTECH 📚 <br>
 - JavaScript #
 - Java #
 - CSS #
-- SQL #
+- SQL # <br>
 Tenho **conhecimento** também em:<br>
 - HTML e Desenvolvimento Web
 - Sistemas operacionais
