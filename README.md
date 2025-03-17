@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá, meu nome é Felipe Gasparotto!<br><br>Desenvolvedor com experiência FullStack
 
 
